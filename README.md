@@ -17,7 +17,7 @@ Since this is a minor attack, it does not affect Large sites (Google, Facebook, 
  - `apt upgrade`
  - `pkg install git`
  - `pkg install clang`
- - `git clone https://github.com/abirhosenakram/Termux-Dos-attacker-tool`
+ - `git clone https://github.com/abirhosenakram/overload`
  - `cd overload`
  - `clang overload.c -o overload`
  - `./overload www.example.com 80`
