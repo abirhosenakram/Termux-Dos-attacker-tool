@@ -22,6 +22,6 @@ Since this is a minor attack, it does not affect Large sites (Google, Facebook, 
  - `clang overload.c -o overload`
  - `./overload www.example.com 80`
 
-   ## press `ctrl+c` to stop this tool.
+   ### press `ctrl+c` to stop this tool.
 
 # ⚠we aren't responsible for any illegal activities 
