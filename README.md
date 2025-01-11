@@ -9,7 +9,7 @@ Usually this attack can also be done using other linux based OS.
 
 Site Crash with Termux? Since this process is done by Telephone, that is, via Termux, the Site does not collapse easily, but when this process is performed with more than 1 person, there may be a slowdown in the Site.
 
-Since this is a minor attack, it does not affect Large sites (Google, Facebook, etc.) Termux Xerxes installation? Download Termux from Google Play…
+Since this is a minor attack, it does not affect Large sites (Google, Facebook, etc.) Termux `overlod` installation? Download Termux from f-droid and follow those commands below
 
 # commands⬇️
 
